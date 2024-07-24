@@ -1,0 +1,1 @@
+SELECT SUM(age) FROM users; -- Hace una suma de todos los campos de la columna age y muestra el resultado

@@ -1,0 +1,1 @@
+DROP TABLE persons5; --elimina la tabla

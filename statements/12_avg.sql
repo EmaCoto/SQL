@@ -1,0 +1,1 @@
+SELECT AVG(age) FROM users; -- En este caso nos da como resultado la media de años que hay en la columna ( es como sacar el promedio de 1 2 3 4 y 5)

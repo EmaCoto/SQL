@@ -1,0 +1,1 @@
+INSERT INTO users (user_id, name, surname) VALUES (11, 'Patricia', 'Suarez'); -- Me inserta en la tabla users un nuevo registro y que dentro de los campos user_id, name, surname un valor que yo le especifique

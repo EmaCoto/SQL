@@ -1,0 +1,1 @@
+SELECT * FROM users LIMIT 2; -- Limita los resultados (como paginaciones y se puede combinar con los anteriores) 
